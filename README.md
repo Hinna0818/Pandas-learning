@@ -1,6 +1,6 @@
 # Pandas-learning
 basic pandas learning of python
 
-## refernces  
+## references  
 https://www.kaggle.com/
 
